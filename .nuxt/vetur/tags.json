@@ -1,0 +1,68 @@
+{
+  "IoSocketStatus": {
+    "description": "Auto imported from node_modules/nuxt-socket-io/lib/components/SocketStatus.js"
+  },
+  "BarChartHorizontal": {
+    "description": "Auto imported from components/BarChartHorizontal.vue"
+  },
+  "Button": {
+    "description": "Auto imported from components/Button.vue"
+  },
+  "Button2": {
+    "description": "Auto imported from components/Button2.vue"
+  },
+  "ButtonTraining": {
+    "description": "Auto imported from components/ButtonTraining.vue"
+  },
+  "ClassButton": {
+    "description": "Auto imported from components/ClassButton.vue"
+  },
+  "ClassList": {
+    "description": "Auto imported from components/ClassList.vue"
+  },
+  "DialogTraining": {
+    "description": "Auto imported from components/DialogTraining.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Model": {
+    "description": "Auto imported from components/Model.vue"
+  },
+  "Notification": {
+    "description": "Auto imported from components/Notification.vue"
+  },
+  "Pie": {
+    "description": "Auto imported from components/Pie.vue"
+  },
+  "SingleLineChart": {
+    "description": "Auto imported from components/SingleLineChart.vue"
+  },
+  "SingleLineChartPerformance": {
+    "description": "Auto imported from components/SingleLineChartPerformance.vue"
+  },
+  "Status": {
+    "description": "Auto imported from components/Status.vue"
+  },
+  "Status2": {
+    "description": "Auto imported from components/Status2.vue"
+  },
+  "Status3": {
+    "description": "Auto imported from components/Status3.vue"
+  },
+  "Summary": {
+    "description": "Auto imported from components/Summary.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LoginForm": {
+    "description": "Auto imported from components/Login/Form.vue"
+  },
+  "RegisterForm2": {
+    "description": "Auto imported from components/Register/Form2.vue"
+  }
+}
